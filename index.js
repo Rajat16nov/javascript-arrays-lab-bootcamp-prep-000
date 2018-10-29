@@ -36,4 +36,3 @@ var removeFirstKitten = () => {
   var newArray = window.kittens.slice(1)
   return newArray
 }
-
